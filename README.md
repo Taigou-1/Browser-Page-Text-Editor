@@ -19,6 +19,6 @@
 
 ![](https://github.com/Taigou-1/Browser-Page-Text-Editor/blob/main/assets/2.png)
 
-将【html-editor1.4.2】文件直接拖到页面中，页面会显示这个插件，安装成功。
+将解压出的【html-editor1.4.2】文件直接拖到页面中，页面会显示这个插件，安装成功。
 
 打开html文件，可以开始编辑了
