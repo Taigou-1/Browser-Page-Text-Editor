@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "浏览器页面文本编辑器",
+  "version": "1.4.2",
+  //"permissions": ["fileSystemAccess"],
+  "host_permissions": ["file://*/*"],
+  "content_scripts": [{
+    "matches": ["file://*/*.html"],
+    "js": ["content.js"],
+    "run_at": "document_end"
+  }],
+  "icons": {
+    "128": "icon.png"
+  }
+}
